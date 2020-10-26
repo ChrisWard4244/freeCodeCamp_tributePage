@@ -1,0 +1,38 @@
+body {
+    width:100%;
+    background-color:rgb(230, 238, 233);
+    padding:0;
+    margin:0 auto;
+    text-align:center;
+}
+
+h1 {
+    font-size:3em;
+}
+
+#main {
+    width:90%;
+    margin:0 auto;
+}
+
+#img-div {
+    margin:0;
+}
+
+img {
+    max-width:100%;
+    height:auto;
+    margin:0 auto;
+}
+
+#img-caption {
+    text-align:left;
+}
+
+
+
+#tribute-info {
+    width:100%;
+    margin:0 auto;
+    text-align:justify;
+}
